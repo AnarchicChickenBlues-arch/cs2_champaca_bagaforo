@@ -1,9 +1,13 @@
 import math 
 
+# Distances
+
 x1 = float(input("Enter x1:"))
 x2 = float(input("Enter x2:"))
 y1 = float(input("Enter y1:"))
 y2 = float(input("Enter y2:"))
+
+# Calculation
 
 #distance = math.sqrt(pow(x1-x1,2)+pow(y2-y1,2))
 point_a = pow(x2-x1,2)
